@@ -1,8 +1,8 @@
 ---
 title: "Quantum circuit design methodology for multiple linear regression"
 collection: publications
-permalink: /publication/quantum_multiple_regression.md
-excerpt: ""
+permalink: /publications/quantum_multiple_regression.md
+excerpt: "**Authors**: Sanchayan Dutta, Adrien Suau, Sagnik Dutta, Suvadeep Roy, Bikash K Behera, Prasanta K Panigrahi"
 date: 2020-10-09
 venue: 'IET Quantum Communication'
 # paperurl: 'https://digital-library.theiet.org/content/journals/10.1049/iet-qtc.2020.0013'
