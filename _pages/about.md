@@ -10,4 +10,4 @@ redirect_from:
 
 I’m a graduate student interested in the mathematical foundations of quantum computing and quantum information theory. My advisor is [Greg Kuperberg](https://www.math.ucdavis.edu/~greg/).
 
-I can be contacted at dutta@ucdavis.edu.
+I can be reached at `dutta [at] ucdavis.edu`.
