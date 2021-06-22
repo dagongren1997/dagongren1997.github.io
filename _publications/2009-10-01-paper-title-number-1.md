@@ -6,4 +6,5 @@ excerpt: 'We report some novel properties of a square lattice filled with white 
 date: 2019-05-01
 venue: 'Frontiers in Physics'
 paperurl: 'https://www.frontiersin.org/articles/10.3389/fphy.2019.00061/full'
+
 ---
