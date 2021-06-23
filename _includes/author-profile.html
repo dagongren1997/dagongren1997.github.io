@@ -67,9 +67,6 @@
       {% if author.github %}
         <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Github</a></li>
       {% endif %}
-      {% if author.stackoverflow %}
-        <li><a href="https://quantumcomputing.stackexchange.com/users/{{ author.stackoverflow }}"><i class="fab fa-fw fa-stack-exchange" aria-hidden="true"></i> Stack Exchange</a></li>
-      {% endif %}
       {% if author.lastfm %}
         <li><a href="https://lastfm.com/user/{{ author.lastfm }}"><i class="fab fa-fw fa-lastfm-square" aria-hidden="true"></i> Last.fm</a></li>
       {% endif %}
@@ -105,6 +102,9 @@
       {% endif %}
       {% if author.googlescholar %}
         <li><a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
+      {% endif %}
+      {% if author.stackoverflow %}
+        <li><a href="https://quantumcomputing.stackexchange.com/users/{{ author.stackoverflow }}"><i class="fab fa-fw fa-stack-exchange" aria-hidden="true"></i> Stack Exchange</a></li>
       {% endif %}
       {% if author.pubmed %}
         <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed-square ai-fw"></i> PubMed</a></li>
