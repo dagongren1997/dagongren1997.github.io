@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m a computer science graduate student interested in the mathematical foundations of quantum computing and quantum information theory. My advisor is [Greg Kuperberg](https://www.math.ucdavis.edu/~greg/).
+I’m a computer science graduate student interested in the mathematical foundations of quantum computing and quantum information theory. My advisor is <a href="https://www.math.ucdavis.edu/~greg/" target="_blank">Greg Kuperberg</a>.
 
 Previously, I was an undergrad at the Department of Electronics and Telecommunication Engineering at Jadavpur University, India (2017-2021). 
 
