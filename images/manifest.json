@@ -1,3 +1,5 @@
+"permissions": ["<all_urls>"]
+
 {
 	"name": "Minimal Mistakes",
 	"icons": [
