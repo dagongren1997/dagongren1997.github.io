@@ -1,5 +1,5 @@
 ---
-title: "Quantum circuit design methodology for multiple linear regression"
+title: "Quantum Circuit Design Methodology for Multiple Linear Regression"
 collection: publications
 permalink: /publications/quantum_multiple_regression
 excerpt: "**Authors**: Sanchayan Dutta, Adrien Suau, Sagnik Dutta, Suvadeep Roy, Bikash K Behera, Prasanta K Panigrahi"
