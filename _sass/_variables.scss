@@ -4,26 +4,37 @@
 /*
    Typography
    ========================================================================== */
+
 $doc-font-size              : 16;
+
+// the following is part of my master plan to control all the fonts on this site, mwahahahaha
+// $rick-font                  : et-book, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+$rick-font                  : Lora, Montserrat, -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+
 /* paragraph indention */
 $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 1.3em;
+
 /* system typefaces */
-$serif                      : Georgia, Times, serif;
-$sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
-$monospace                  : Monaco, Consolas, "Lucida Console", monospace;
+$serif                      : $rick-font, Georgia, Times, serif;
+$sans-serif                 : $rick-font, -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$monospace                  : $rick-font, Monaco, Consolas, "Lucida Console", monospace;
+
 /* sans serif typefaces */
-$sans-serif-narrow          : $sans-serif;
-$helvetica                  : Helvetica, "Helvetica Neue", Arial, sans-serif;
+$sans-serif-narrow          : $rick-font, $sans-serif;
+$helvetica                  : $rick-font, Helvetica, "Helvetica Neue", Arial, sans-serif;
+
 /* serif typefaces */
-$georgia                    : Georgia, serif;
-$times                      : Times, serif;
-$bodoni                     : "Bodoni MT", serif;
-$calisto                    : "Calisto MT", serif;
-$garamond                   : Garamond, serif;
+$georgia                    : $rick-font, Georgia, serif;
+$times                      : $rick-font, Times, serif;
+$bodoni                     : $rick-font, "Bodoni MT", serif;
+$calisto                    : $rick-font, "Calisto MT", serif;
+$garamond                   : $rick-font, Garamond, serif;
+
 $global-font-family         : $sans-serif;
 $header-font-family         : $sans-serif;
 $caption-font-family        : $serif;
+
 /* type scale */
 $type-size-1                : 2.441em;  // ~39.056px
 $type-size-2                : 1.953em;  // ~31.248px
