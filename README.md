@@ -1,1 +1,1 @@
-This website is built using the [Academic Pages](https://github.com/academicpages/academicpages.github.io) template.
+This website was built using the [Academic Pages](https://github.com/academicpages/academicpages.github.io) template which is based on [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/).
