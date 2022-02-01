@@ -177,7 +177,7 @@ kramdown:
 collections:
   blog:
     output: true
-    permalink: 
+    permalink: /:collection/:path/
   notes: /:collection/:path/
     output: true
     permalink: /:collection/:path/
