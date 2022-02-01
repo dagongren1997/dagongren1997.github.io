@@ -7,8 +7,8 @@ main:
     url: /notes/   
     
   - title: "Blog"
-    url: https://sanchayandutta.wordpress.com/
-
+    url: /blog/
+    
 # - title: "Teaching"
 #   url: /teaching/    
     
