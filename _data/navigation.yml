@@ -7,16 +7,16 @@ main:
     url: /notes/   
     
   - title: "Blog"
-    url: /blog/
+    url: https://sanchayandutta.wordpress.com/
     
-  - title: "Teaching"
-    url: /teaching/    
+#  - title: "Teaching"
+#    url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+#  - title: "Portfolio"
+#    url: /portfolio/
         
-  - title: "CV"
-    url: /cv/
+#  - title: "CV"
+#    url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+#  - title: "Guide"
+#    url: /markdown/
