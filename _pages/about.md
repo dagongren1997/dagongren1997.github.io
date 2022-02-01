@@ -12,4 +12,4 @@ I’m a first year graduate student interested in the mathematical foundations o
 
 Previously, I was an undergrad at the Department of Electronics and Telecommunication Engineering at Jadavpur University, India from 2017 to 2021. I was also an undergraduate research assistant in the Department of Physical Sciences, IISER Kolkata.
 
-I can be reached at `dutta[at]ucdavis.edu`.
+I can be reached at `dutta[at]ucdavis.edu`. Test.
