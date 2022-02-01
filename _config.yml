@@ -194,6 +194,15 @@ collections:
 
 # Defaults
 defaults:
+  # _blog
+  - scope:
+      path: ""
+      type: blog
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true 
   # _notes
   - scope:
       path: ""
