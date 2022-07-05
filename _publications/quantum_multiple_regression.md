@@ -2,7 +2,6 @@
 title: "Quantum Circuit Design Methodology for Multiple Linear Regression"
 collection: publications
 permalink: /publications/quantum_multiple_regression
-excerpt: ""
 date: 2020-10-09
 venue: 'IET Quantum Communication'
 # paperurl: 'https://digital-library.theiet.org/content/journals/10.1049/iet-qtc.2020.0013'
