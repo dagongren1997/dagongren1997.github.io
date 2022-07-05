@@ -2,6 +2,7 @@
 title: "Quantum Machine Learning: A Review and Current Status"
 collection: publications
 permalink: /publications/qml_review
+excerpt: ""
 date: 2020-10-09
 venue: 'Springer Advances in Intelligent Systems and Computing'
 # paperurl: 'https://link.springer.com/chapter/10.1007/978-981-15-5619-7_8'
