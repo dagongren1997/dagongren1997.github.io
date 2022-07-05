@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m a second year graduate student interested in the mathematical foundations of quantum information and quantum error correction. 
+I’m a second year graduate student in mathematics at UC Davis. I'm interested in the mathematical foundations of quantum error correction and quantum information. 
 
 I am fortunate to be advised by both <a href="https://www.math.ucdavis.edu/~greg/" target="_blank">Greg Kuperberg</a> and <a href= "http://www.isaackimquantum.com" target="_blank"> Isaac Kim</a>.
 
