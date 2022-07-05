@@ -6,7 +6,7 @@ excerpt: ""
 date: 2019-05-01
 venue: 'Frontiers in Physics'
 # paperurl: 'https://www.frontiersin.org/articles/10.3389/fphy.2019.00061/full'
-citation:
+# citation:
 ---
 <a href="https://arxiv.org/abs/1904.05748" class="btn btn-primary" target="_blank">arXiv</a>
 <a href="https://doi.org/10.3389/fphy.2019.00061" class="btn btn-primary" target="_blank">DOI</a>
