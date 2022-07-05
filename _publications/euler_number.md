@@ -1,5 +1,5 @@
 ---
-title: "Euler Number and Percolation Threshold on a Square Lattice With Diagonal Connection Probability and Revisiting the Island-Mainland Transition"
+title: - "Euler Number and Percolation Threshold on a Square Lattice With Diagonal Connection Probability and Revisiting the Island-Mainland Transition"
 collection: publications
 permalink: /publications/euler_number
 excerpt: "**Authors**: Sanchayan Dutta, Sugata Sen, Tajkera Khatun, Tapati Dutta, Sujata Tarafdar"
