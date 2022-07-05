@@ -2,6 +2,7 @@
 title: "Euler Number and Percolation Threshold on a Square Lattice With Diagonal Connection Probability and Revisiting the Island-Mainland Transition"
 collection: publications
 permalink: /publications/euler_number
+excerpt: ""
 date: 2019-05-01
 venue: 'Frontiers in Physics'
 # paperurl: 'https://www.frontiersin.org/articles/10.3389/fphy.2019.00061/full'
