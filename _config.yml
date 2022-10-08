@@ -80,12 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sanchayan Dutta"
-  bio              : "Mathematics Ph.D. student at UC Davis"
-  location         : 
+  name             :
+  avatar           :
+  bio              : "Mathematics Ph.D. student at University of California, Davis"
+  location         : "Davis, CA"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=E0loZbAAAAAJ&hl=en"
   email            :
   researchgate     : 
   uri              :
@@ -101,11 +102,11 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         :
+  linkedin         : "sanchayan-dutta"
   orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    :
+  stackoverflow    : "26/sanchayan-dutta?tab=profile"
   steam            :
   tumblr           :
   twitter          :
