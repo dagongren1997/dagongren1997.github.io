@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sanchayan Dutta"
-  avatar           : "profile.jpg"
-  bio              : "Mathematics Ph.D. Student at University of California, Davis."
-  location         : Davis, CA
+  name             : 
+  avatar           : 
+  bio              : 
+  location         : 
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=E0loZbAAAAAJ&hl=en"
+  googlescholar    : 
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -100,13 +100,13 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
-  linkedin         : "sanchayan-dutta"
+  linkedin         :
   orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : "26/sanchayan-dutta?tab=profile"
+  stackoverflow    :
   steam            :
   tumblr           :
   twitter          :
