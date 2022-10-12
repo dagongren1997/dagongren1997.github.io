@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Sanchayan Dutta"
+title:
 excerpt: "About me"
 author_profile: true
 redirect_from: 
