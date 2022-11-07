@@ -16,4 +16,4 @@ I am fortunate to be advised by <a href="https://www.math.ucdavis.edu/~greg" tar
 
 Previously, I was an undergrad at the Department of Electronics and Telecommunication Engineering at Jadavpur University, India from 2017 to 2021. I was also an undergraduate research assistant in the Department of Physical Sciences, IISER Kolkata.
 
-You can reach me at `dutta[at]ucdavis.edu`. My office is at MSB 3219.
+You may reach me at `dutta[at]ucdavis.edu`. My office is at MSB 3219.
