@@ -10,7 +10,7 @@ redirect_from:
 
 I’m a second year graduate student in mathematics at UC Davis. 
 
-I'm interested in the mathematical foundations of quantum error correction and quantum information, which span the fields of quantum codes and fault tolerance, operator algebras, geometric topology, computational complexity and quantum algebras.
+I'm interested in the mathematical foundations of quantum error correction and quantum information theory, which span the fields of quantum codes and fault tolerance, operator algebras, geometric topology, computational complexity and quantum algebras.
 
 I am fortunate to be advised by <a href="https://www.math.ucdavis.edu/~greg" target="_blank">Greg Kuperberg</a>. I am also a member of <a href="https://www.isaackimquantum.com" target="_blank">Isaac Kim</a>'s group.
 
