@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m a second year graduate student in mathematics at UC Davis. 
+I’m a second year Ph.D. student in mathematics at UC Davis. 
 
 I'm interested in the mathematical foundations of quantum error correction and quantum information theory, which spans the fields of quantum codes and fault tolerance, operator algebras, geometric topology, computational complexity and quantum algebras.
 
