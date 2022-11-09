@@ -1,6 +1,6 @@
 ---
-permalink: /
-title:
+permalink:
+title: Sanchayan Dutta
 excerpt: "About me"
 author_profile: true
 redirect_from: 
