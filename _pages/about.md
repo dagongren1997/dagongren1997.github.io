@@ -12,7 +12,7 @@ I am a second year Ph.D. student in the Department of Mathematics at UC Davis.
 
 I am interested in the mathematical foundations of quantum error correction and quantum information theory, which spans the fields of quantum codes and fault tolerance, operator algebras, geometric topology, computational complexity, and quantum algebras.
 
-I am fortunate to be advised by <a href="https://www.math.ucdavis.edu/~greg" target="_blank">Greg Kuperberg</a>. I am also a member of <a href="https://www.isaackimquantum.com" target="_blank">Isaac Kim</a>'s group.
+I am fortunate to be advised by <a href="https://www.math.ucdavis.edu/~greg" target="_blank">Greg Kuperberg</a>.
 
 Previously, I was an undergrad at the Department of Electronics and Telecommunication Engineering at Jadavpur University, India from 2017 to 2021. I was also an undergraduate research assistant in the Department of Physical Sciences, IISER Kolkata.
 
