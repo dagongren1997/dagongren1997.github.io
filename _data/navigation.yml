@@ -10,8 +10,12 @@ main:
   - title: "Research"
     url: /research/
     
+  - title: "Talks"
+    url: /talks/
+    
   - title: "Blog"
     url: https://sanchayandutta.wordpress.com/
+    
     
 #  - title: "Teaching"
 #    url: /teaching/    
