@@ -16,6 +16,4 @@ I am fortunate to be advised by <a href="https://www.math.ucdavis.edu/~greg" tar
 
 Previously, I was an undergrad at the Department of Electronics and Telecommunication Engineering at Jadavpur University, India from 2017 to 2021. I was also an undergraduate research assistant in the Department of Physical Sciences, IISER Kolkata.
 
-You may reach me at `dutta[at]ucdavis.edu`. My office is at MSB 3219.
-
-I run a couple of reading groups at UC Davis: <a href="https://sites.google.com/ucdavis.edu/quantumalgebragroup" target="_blank">Quantum Algebra</a> and <a href="https://sites.google.com/ucdavis.edu/computationalcomplexitygroup" target="_blank">Computational Complexity</a>. If you'd like to join us kindly drop me an email.
+You may reach me at `dutta[at]ucdavis.edu`. My office is at MSB 3219. I run a couple of reading groups at UC Davis: <a href="https://sites.google.com/ucdavis.edu/quantumalgebragroup" target="_blank">Quantum Algebra</a> and <a href="https://sites.google.com/ucdavis.edu/computationalcomplexitygroup" target="_blank">Computational Complexity</a>. If you'd like to join us kindly drop me an email.
