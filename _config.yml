@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Sanchayan Dutta"
+name                     : &name "Ning Hu"
 description              : &description "Mathematics Ph.D. Student at University of California, Davis."
 url                      : "https://sanchayandutta.cs.ucdavis.edu" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
